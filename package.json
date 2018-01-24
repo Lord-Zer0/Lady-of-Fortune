@@ -1,0 +1,13 @@
+{
+    "name": "lady-of-fortune",
+    "version": "1.0.0",
+    "description": "Simple Discord bot for transactions and fortunes",
+    "main": "bot.js",
+    "author": {
+        "name": "Connor McCauley",
+        "url": "https://github.com/Lord-Zer0"
+    },
+    "dependencies": {
+        
+    }
+}
