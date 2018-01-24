@@ -1,0 +1,1 @@
+// initial starting point of bot when activated
