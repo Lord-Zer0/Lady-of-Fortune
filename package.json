@@ -10,5 +10,9 @@
     "dependencies": {
         "discord.io": "^2.5.3",
         "winston": "^2.4.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:Lord-Zer0/Lady-of-Fortune.git"
     }
 }
